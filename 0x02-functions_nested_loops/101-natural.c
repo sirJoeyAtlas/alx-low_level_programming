@@ -9,8 +9,8 @@ print_times_table(3);
 _putchar('\n');
 print_times_table(5);
 _putchar('\n');
-print_times_table(98);
+print_times_table(6);
 _putchar('\n');
-print_times_table(12);
+print_times_table(9);
 return (0);
 }
