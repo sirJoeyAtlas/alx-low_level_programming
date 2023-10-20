@@ -1,7 +1,7 @@
 #include "lists.h"
 void HundredFirstbyGundo(void)__attribute__ ((constructor));
 /**
- * HundredFirst - main function
+ * HundredFirst: main function
  */
 void HundredFirstbyGundo(void)
 {
